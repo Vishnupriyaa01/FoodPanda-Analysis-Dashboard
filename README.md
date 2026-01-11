@@ -2,7 +2,7 @@
 
 INTRODUCTION
 
-This dashboard is designed to analyze Foodpanda’s business performance by combining sales, customer, payment, and delivery data into a single interactive view. S The dashboard focuses on understanding how customers interact with the platform, how orders and revenue vary across cities, and how efficiently deliveries are completed. By visualizing these metrics, the dashboard helps stakeholders identify growth opportunities, operational challenges, and areas requiring strategic improvement.
+This dashboard is designed to analyze Foodpanda’s business performance by combining sales, customer, payment, and delivery data into a single interactive view. The dashboard focuses on understanding how customers interact with the platform, how orders and revenue vary across cities, and how efficiently deliveries are completed. By visualizing these metrics, the dashboard helps stakeholders identify growth opportunities, operational challenges, and areas requiring strategic improvement.
 
 KEY INSIGHTS
 
