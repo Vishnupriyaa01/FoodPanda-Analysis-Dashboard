@@ -1,15 +1,14 @@
                                                        FoodPanda Analysis Dashboard
 
 INTRODUCTION
-This dashboard is designed to analyze Foodpanda’s business performance by combining sales, customer, payment, and delivery data into a single interactive view. S The dashboard focuses on understanding how customers interact with the
-platform, how orders and revenue vary across cities, and how efficiently deliveries are completed. By visualizing these metrics, the dashboard helps stakeholders identify growth opportunities,
-operational challenges, and areas requiring strategic improvement.
+
+This dashboard is designed to analyze Foodpanda’s business performance by combining sales, customer, payment, and delivery data into a single interactive view. S The dashboard focuses on understanding how customers interact with the platform, how orders and revenue vary across cities, and how efficiently deliveries are completed. By visualizing these metrics, the dashboard helps stakeholders identify growth opportunities, operational challenges, and areas requiring strategic improvement.
 
 KEY INSIGHTS
 
 SALES AND ORDER PERFORMANCE
 
-The sales and order analysis highlights the relationship between order volume and revenue generation across different cities and product categories. Some cities place a high number of orders
+The sales and order analysis highlights the relationship between order volume and revenue generation across different cities and product categories. Some cities place a high number of order
 but generate lower total sales, indicating smaller average order values. In contrast, certain cities generate higher revenue with fewer orders, suggesting premium pricing or higher-value
 purchases. Category-level analysis helps identify which product types contribute the most to overall sales, enabling better inventory and marketing decisions.
 
